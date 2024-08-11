@@ -8,3 +8,5 @@ Projenin Kurulum Aşamaları :
 
 Koddaki eksiğim:
 Öğrencinin ortalamasına göre geçme kalma durumunu görmek istedim, ama geçti kaldı bilgisi yerinde true false bilgisi dönüyor, bunun sebebi muhtemelen veritabanındaki durum kolonunun veri tipini bit yapmam. veritipini değiştirdiğimde de farklı hatalar aldığım için öylece bıkakmak istedim, kendimi ilerlettiğimde geri dönüp halledeceğim. 
+
+Bu projeyi C# ve SQL kullanarak hazırladım
